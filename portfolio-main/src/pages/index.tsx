@@ -17,7 +17,7 @@ const Home = ({ home }: HomeProps) => {
   return (
     <>
       <Head>
-        <title>Sobre mim | Huriel</title>
+        <title>Sobre mim | Eraldo</title>
         <meta
           name="description"
           content="Sou um desenvolvedor Front-end apaixonado por criar interfaces e ajudar outros devs!"
